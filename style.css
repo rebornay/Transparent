@@ -140,7 +140,7 @@ footer .group .right a {
     /* CSS rules for phone screens */
    header {
     left: auto;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     line-height: 0.8;
    
    }
